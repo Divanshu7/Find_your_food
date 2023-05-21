@@ -15,8 +15,5 @@
     <a href="https://github.com/Divanshu7" target="_blank">
         <img alt="Github" src="https://github.com/Divanshu7?tab=repositories" />&nbsp;
     </a>
-   
-     <a href="https://www.instagram.com/divanshu_vaish77/" target="_blank">
-       <img alt="Instagram" src="https://www.instagram.com/divanshu_vaish77/" />&nbsp;
-    </a>
+  
 </p>
